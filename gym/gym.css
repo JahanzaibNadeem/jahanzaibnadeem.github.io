@@ -27,7 +27,7 @@ li a {
 }
 
 body {
-    background: linear-gradient( rgba(0, 0, 0, 0.425), rgb(0, 0, 0) ), url('backg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.425), rgb(0, 0, 0)), url('backg.jpg');
     background-size: cover;
     color: white;
     font-family: 'Mitr', sans-serif;
@@ -236,7 +236,7 @@ nav ul li a:hover {
     }
 
     .logo {
-        
+
         font-size: larger;
         font-family: 'Merienda', cursive;
         font-weight: 700px;
@@ -326,7 +326,7 @@ nav ul li a:hover {
         text-align: center;
         margin-top: 5rem;
         text-shadow: rgb(0, 0, 0) 1px 0 20px;
-        
+
 
     }
 
@@ -342,7 +342,7 @@ nav ul li a:hover {
 
     nav ul li a:hover {
         color: yellow !important;
-        
+
 
     }
 
